@@ -1,0 +1,16 @@
+{
+    "record_count": 2,
+    "average_salary": 78500.0,
+    "employees": [
+        {
+            "name": "Ada",
+            "department": "Data Science",
+            "salary": 85000.0
+        },
+        {
+            "name": "Tunde",
+            "department": "Analytics",
+            "salary": 72000.0
+        }
+    ]
+}

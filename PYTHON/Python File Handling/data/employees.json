@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Ada",
+        "department": "Data Science",
+        "salary": 85000
+    },
+    {
+        "id": 2,
+        "name": "Tunde",
+        "department": "Analytics",
+        "salary": 72000
+    },
+    {
+        "id": 3,
+        "name": "Mariam",
+        "department": "AI Engineering",
+        "salary": 95000
+    }
+]

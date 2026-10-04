@@ -1,0 +1,11 @@
+{
+    "name": "Ada",
+    "role": "Data Scientist",
+    "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+    ],
+    "years_experience": 4,
+    "active": true
+}

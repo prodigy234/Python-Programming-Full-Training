@@ -1,0 +1,4 @@
+Ada, Data Scientist
+Tunde, Data Analyst
+Mariam, AI Engineer
+Chika, ML Engineer
